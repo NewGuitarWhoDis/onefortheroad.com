@@ -1,0 +1,12 @@
+.title {
+    background-color: #000;
+    background-image: url("assets/images/title-background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 20%;
+
+    color: whitesmoke;
+    padding: 10%;
+}
+
+.title h1 {
+} 
