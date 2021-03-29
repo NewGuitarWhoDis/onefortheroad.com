@@ -2,11 +2,12 @@
     background-color: #000;
     background-image: url("assets/images/title-background.jpg");
     background-repeat: no-repeat;
-    background-size: 100% 20%;
+    background-size: 100% auto;
+    background-position-y: 70%;
 
     color: whitesmoke;
-    padding: 10%;
+    padding: 10%; 
 }
 
 .title h1 {
-} 
+}  
