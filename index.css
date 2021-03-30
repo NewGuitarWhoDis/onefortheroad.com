@@ -1,13 +1,21 @@
-.title {
+.title-background {
     background-color: #000;
     background-image: url("assets/images/title-background.jpg");
     background-repeat: no-repeat;
-    background-size: 100% auto;
-    background-position-y: 70%;
+    background-size: 125% auto;
+    background-position-y: 75%;
+    background-position-x: -140px;
+    filter: blur(2px);
 
-    color: whitesmoke;
+    size: 125% auto;
+
+    color: black;
     padding: 10%; 
 }
 
+.title {
+}
+
 .title h1 {
+    padding-left: 40%;
 }  
